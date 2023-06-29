@@ -1,3 +1,4 @@
+//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
 // indica la salida de los siguientes fragmentos.
 
 //for (n = 1; n <= 3; n++)
@@ -22,10 +23,4 @@
 //     return 0;
 // }
 
-//hola mundo
 
-int main(){
-    printf("Hola mundo\n");
-    system("pause");
-    return 0;
-}
